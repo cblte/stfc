@@ -24,16 +24,18 @@
 
 Hier eine Kopie der RoE Definitionen von <https://discord.com/channels/1115245703111913582/1115561505824452718>
 
-RoE Definitions: - EN
-(a) "Miner"/"Survey"; Any Survey ship unless:
-(b) "Warship" – All other ships other than a "Miner"/"Survey".
-(c) "Under Protected Cargo/empty"; (UPC) Any ship with no Resource to steal by destroying it.
-(d) "Over Protected Cargo"; (OPC)  Any ship that after scanning has resources onboard.
-(e) "Zero Node"; A mining node with no resources left to gather
+### RoE Definitions - EN
 
-RoE Definitionen: - DE
-(a) "Miner"/"Abbauschiff" ("Survey ship" im Englischen) -> Schiffe die spezialisiert sind auf Abbau.
-(b) "Kampfschiff" ("Warship" im Englischen) –> Schiffe die NICHT auf Abbau spezialisiert sind.
-(c) "Under Protected Cargo" (UPC) -> Schiffe mit Ressourcen aussschließlich in der geschützten Ladung. (Nichts kann erbeutet werden durch das Zerstören solcher Schiffe.)
-(d) "Over Protected Cargo" (OPC) ->  Schiffe mit Ressourcen in der ungeschützten Ladung. (Die ungeschützte Menge an Ressourcen kann erbeutet werden durch das Zerstören solcher Schiffe.)
-(e) "Leerer Knoten" ("Zero Node" im Englischen) -> Ein Abbauknoten der aufgebraucht ist.
+* (a) "Miner"/"Survey"; Any Survey ship unless:
+* (b) "Warship" – All other ships other than a "Miner"/"Survey".
+* (c) "Under Protected Cargo/empty"; (UPC) Any ship with no Resource to steal by destroying it.
+* (d) "Over Protected Cargo"; (OPC)  Any ship that after scanning has resources onboard.
+* (e) "Zero Node"; A mining node with no resources left to gather
+
+### RoE Definitionen - DE
+
+* (a) "Miner"/"Abbauschiff" ("Survey ship" im Englischen) -> Schiffe die spezialisiert sind auf Abbau.
+* (b) "Kampfschiff" ("Warship" im Englischen) –> Schiffe die NICHT auf Abbau spezialisiert sind.
+* (c) "Under Protected Cargo" (UPC) -> Schiffe mit Ressourcen aussschließlich in der geschützten Ladung. (Nichts kann erbeutet werden durch das Zerstören solcher Schiffe.)
+* (d) "Over Protected Cargo" (OPC) ->  Schiffe mit Ressourcen in der ungeschützten Ladung. (Die ungeschützte Menge an Ressourcen kann erbeutet werden durch das Zerstören solcher Schiffe.)
+* (e) "Leerer Knoten" ("Zero Node" im Englischen) -> Ein Abbauknoten der aufgebraucht ist.
