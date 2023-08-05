@@ -1,9 +1,12 @@
 <head>
-    <!-- Import element definition -->
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
 </head>
 
 <body>
     <!-- Profit! -->
-    <zero-md src="/index.md"></zero-md>
+    <zero-md src="https://cblte.github.io/stfc-guides/index.md">
+        <script type="text/markdown">
+            This is the fall-back markdown that will **only show** when `src` is falsy.
+          </script>
+    </zero-md>
 </body>
